@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm minhypro</h1>
 <h3 align="center">A passionate web developer from Danang, Vietnam</h3>
 
-- 🌱 I’m currently working as a **Web Development**
+- 🌱 I’m currently working as a **Web Development Engineer**
 
 - 👨‍💻 Take a quick look on my portfolio [https://minhy.vercel.app/](https://minhy.vercel.app/)
 
